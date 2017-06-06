@@ -38,4 +38,7 @@ or download it as zip file from same repository
 
 10)Use photo button to send images to other user.
 
-
+11)Scope for further improvement:
+	There is scope of lot of improvement if this need to be used as live application.
+	Again this is just a sample application for me to test my hands on web sockets.
+	
