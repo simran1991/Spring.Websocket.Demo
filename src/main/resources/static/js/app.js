@@ -72,6 +72,9 @@ function disconnect() {
 		stompClient.disconnect();
 	}
 	setConnected(false);
+	stopWebCam();	
+	photoData=null;
+	photo = null;
 	console.log("Disconnected");
 }
 
