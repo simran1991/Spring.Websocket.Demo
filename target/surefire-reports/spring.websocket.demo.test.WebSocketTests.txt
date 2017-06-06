@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: spring.websocket.demo.test.WebSocketTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.556 sec - in spring.websocket.demo.test.WebSocketTests
